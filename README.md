@@ -7,8 +7,8 @@
 ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 
 # Hosting
-- https://ntut.uk/dns - My Adguard Home DoH instance.
-- https://text.superlily.dev - Text shareing website for Instagram stories.
+- https://superlily.dev/dns/ - My Adguard Home DoH instance.
+- https://ntut.uk - 短網址
 - https://pay.superlily.dev - TWQR generator.
 - https://pdf.ntut.uk - PDF tools.
 
