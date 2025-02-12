@@ -11,4 +11,4 @@
 - https://pdf.ntut.uk - PDF tools.
 
 # 這是 Lily，我的柴犬好朋友
-![shiba](https://github.com/user-attachments/assets/6fce62ea-66cf-4bc7-8e9c-e3ae20127b53)
+![shiba](shiba.jpg)
