@@ -8,4 +8,4 @@
 
 
 目前正在寫:
-https://github.com/NTUT-NPC/website
+https://github.com/NTUT-NPC/ntut_sso_plus
