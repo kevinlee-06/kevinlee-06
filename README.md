@@ -3,7 +3,7 @@
   <br>
   <br>
 
-| <a href="https://github.com/NTUT-NPC/tattoo">Tattoo</a> | <a href="https://github.com/NTUT-NPC/ntut_sso_plus">擴充功能</a> |  
+| <a href="https://github.com/NTUT-NPC/tattoo">「北科 TAT」App</a> | <a href="https://github.com/NTUT-NPC/ntut-sso-plus">「NTUT SSO+」擴充功能</a> |  
 |-|-|
 
 </div>
